@@ -1,0 +1,5 @@
+aws_region    = "eu-west-1"
+project_name  = "zeetafin"
+instance_type = "c7i-flex.large"
+key_name      = "Devops-key-eu-west-1"
+my_ip         = "0.0.0.0/0"
